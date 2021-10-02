@@ -7,4 +7,5 @@ Implementing the LIME XAI algorithm for the Imagenet dataset class labels using 
 3. Run "main.py"
 4. Open localhost (https://127.0.0.1:5000/) in your preferred browser.
 
+Final Output -
 ![Explanations](explanations_image.jpg)
