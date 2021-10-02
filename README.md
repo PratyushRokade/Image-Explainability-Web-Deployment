@@ -8,10 +8,10 @@ Implementing the LIME XAI algorithm for the Imagenet dataset class labels using 
 4. Open localhost (https://127.0.0.1:5000/) in your preferred browser.
 
 Input -
-
+![Cat](cat.jpg)
 
 Output -
-
+![Cat_Explanations](catexp.jpg)
 
 Implementation Output -
 ![Explanations](explanations_image.jpg)
