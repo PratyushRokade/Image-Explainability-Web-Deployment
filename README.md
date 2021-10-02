@@ -6,3 +6,6 @@ Implementing the LIME XAI algorithm for the Imagenet dataset class labels using 
 2. Dowload model weights from https://drive.google.com/file/d/1Ts1ntkRQqFgBscfPy1CsXzCLj8Cy0Jbq/view?usp=sharing and save it in folder named "static.
 3. Run "main.py"
 4. Open localhost (https://127.0.0.1:5000/) in your preferred browser.
+
+![alt text](https://github.com/[PratyushRokade]/[Image-Explainability-Web-Deployment
+]/blob/[main]/image.jpg?raw=true)
