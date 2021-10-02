@@ -8,4 +8,4 @@ Implementing the LIME XAI algorithm for the Imagenet dataset class labels using 
 4. Open localhost (https://127.0.0.1:5000/) in your preferred browser.
 
 ![alt text](https://github.com/[PratyushRokade]/[Image-Explainability-Web-Deployment
-]/blob/[main]/image.jpg?raw=true)
+]/blob/[main]/explanations_image.jpg?raw=true)
